@@ -1,0 +1,20 @@
+# Magento default exclusions
+/app/etc/env.php
+/var/*
+/pub/media/*
+/pub/static/*
+/generated/*
+/vendor/*
+/node_modules/*
+/.idea/*
+/.DS_Store
+*.swp
+*.log
+*.csv
+*.gz
+*.zip
+# Other common exclusions
+*.iml
+*.sublime-project
+*.sublime-workspace
+/.vscode
